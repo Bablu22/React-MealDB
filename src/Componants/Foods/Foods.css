@@ -1,0 +1,9 @@
+.cetegories-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 50px 0;
+}
+.food-details{
+    padding: 50px;
+    
+}
